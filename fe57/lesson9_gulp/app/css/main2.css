@@ -1,0 +1,7 @@
+h2 {
+  color: gold;
+  background-color: aqua;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex; }
